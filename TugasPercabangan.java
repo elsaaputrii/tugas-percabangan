@@ -43,9 +43,6 @@ public class TugasPercabangan {
         scanner.close();
     }
 }
-
-
-
 // Deklarasi
 // Var gajiPokok = 5000000;
 //     uangLembur = 50000;
